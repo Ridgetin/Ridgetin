@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ridgetin
 - 👀 I’m interested in developing skills.
-- 🌱 I’m currently learning front-end.
+- 🌱 I’m currently working front-end.
 - 💞️ I’m looking to collaborate on linkedin.
 - 📫 How to reach me [email id: krishcorp12@gmail.com]
 - 😄 Pronouns: he/him
